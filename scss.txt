@@ -1,0 +1,54 @@
+-- SCSS --
+@include
+@extend
+
+-- Position/type --
+display
+position
+z-index
+top
+left
+bottom
+right
+flex
+float
+clear
+vertical align
+transform
+
+-- Box model --
+width
+height
+padding
+border
+margin
+overflow
+box-sizing
+
+-- Typography --
+font-weight
+font-size
+line-height
+font-family
+text-align
+text-decoration
+text-transform
+
+-- Visual --
+content
+opacity
+visibility
+color
+background
+outline
+box-shadow
+text-shadow
+appearance
+
+-- Action --
+cursor
+pointer-events
+
+-- Animation --
+transition
+animation
